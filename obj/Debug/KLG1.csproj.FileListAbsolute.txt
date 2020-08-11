@@ -1,0 +1,6 @@
+E:\Project C#\KLG1\obj\Debug\KLG1.csprojAssemblyReference.cache
+E:\Project C#\KLG1\bin\Debug\KLG1.exe.config
+E:\Project C#\KLG1\bin\Debug\KLG1.exe
+E:\Project C#\KLG1\bin\Debug\KLG1.pdb
+E:\Project C#\KLG1\obj\Debug\KLG1.exe
+E:\Project C#\KLG1\obj\Debug\KLG1.pdb
